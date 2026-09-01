@@ -7,6 +7,8 @@
 ![Day](https://img.shields.io/badge/day-001%2F365-blue)
 ![Commitment](https://img.shields.io/badge/commitment-365%20days-red)
 
+*This is my personal journey, documented publicly, day by day, for myself as much as for anyone watching.*
+
 ---
 
 ## 📖 Table of Contents
@@ -254,11 +256,12 @@ It's **not an ending - it's proof of what 365 days can actually do** - done in p
 
 ## 🔗 Connect
 
+Following along is welcome - this is a personal journey, but a public one.
 
-- GitHub: - https://github.com/Realmaryambano
-- Instagram: - https://www.instagram.com/realmaryambano/
-- LinkedIn: - https://www.linkedin.com/in/realmaryambano/ 
-- Email: - maryambano.official@gmail.com 
+- GitHub: [github.com/Realmaryambano](https://github.com/Realmaryambano)
+- Instagram: [instagram.com/realmaryambano](https://www.instagram.com/realmaryambano/)
+- LinkedIn: [linkedin.com/in/realmaryambano](https://www.linkedin.com/in/realmaryambano/)
+- Email: maryambano.official@gmail.com
 
 ---
 
